@@ -1,0 +1,313 @@
+id;name
+1;Abdominal aortic aneurysm
+2;Acne
+3;Acute cholecystitis
+4;Acute lymphoblastic leukaemia
+5;Acute lymphoblastic leukaemia: Children
+6;Acute lymphoblastic leukaemia: Teenagers and young adults
+7;Acute myeloid leukaemia
+8;Acute myeloid leukaemia: Children
+9;Acute myeloid leukaemia: Teenagers and young adults
+10;Acute pancreatitis
+11;Addison's disease
+12;Alcohol-related liver disease
+13;Allergic rhinitis
+14;Allergies
+15;Alzheimer's disease
+16;Anal cancer
+17;Anaphylaxis
+18;Angioedema
+19;Ankylosing spondylitis
+20;Anorexia nervosa
+21;Anxiety
+22;Anxiety disorders in children
+23;Appendicitis
+24;Arthritis
+25;Asbestosis
+26;Asthma
+27;Atopic eczema
+28;Attention deficit hyperactivity disorder (ADHD)
+29;Autistic spectrum disorder (ASD)
+30;Bacterial vaginosis
+31;Benign prostate enlargement
+32;Bile duct cancer (cholangiocarcinoma)
+33;Binge eating
+34;Bipolar disorder
+35;Bladder cancer
+36;Blood poisoning (sepsis)
+37;Bone cancer
+38;Bone cancer: Teenagers and young adults
+39;Bowel cancer
+40;Bowel incontinence
+41;Bowel polyps
+42;Brain stem death
+43;Brain tumours
+44;Brain tumours: Children
+45;Brain tumours: Teenagers and young adults
+46;Breast cancer (female)
+47;Breast cancer (male)
+48;Bronchiectasis
+49;Bronchitis
+50;Bulimia
+51;Bunion
+52;Carcinoid syndrome and carcinoid tumours
+53;Catarrh
+54;Cellulitis
+55;Cervical cancer
+56;Chest infection
+57;Chest pain
+58;Chickenpox
+59;Chilblains
+60;Chronic fatigue syndrome
+61;Chronic kidney disease
+62;Chronic lymphocytic leukaemia
+63;Chronic myeloid leukaemia
+64;Chronic obstructive pulmonary disease
+65;Chronic pancreatitis
+66;Cirrhosis
+67;Clostridium difficile
+68;Coeliac disease
+69;Cold sore
+70;Coma
+71;Common cold
+72;Common heart conditions
+73;Congenital heart disease
+74;Conjunctivitis
+75;Constipation
+76;Cough
+77;Crohn's disease
+78;Croup
+79;Cystic fibrosis
+80;Cystitis
+81;Deafblindness
+82;Deep vein thrombosis
+83;Dehydration
+84;Dementia
+85;Dementia with Lewy bodies
+86;Dental abscess
+87;Depression
+88;Dermatitis herpetiformis
+89;Diabetes
+90;Diarrhoea
+91;Discoid eczema
+92;Diverticular disease and diverticulitis
+93;Dizziness (Lightheadedness)
+94;Down's syndrome
+95;Dry mouth
+96;Dysphagia (swallowing problems)
+97;Dystonia
+98;Earache
+99;Earwax build-up
+100;Ebola virus disease
+101;Ectopic pregnancy
+102;Endometriosis
+103;Epilepsy
+104;Erectile dysfunction (impotence)
+105;Escherichia coli (E. coli) O157
+106;Ewing sarcoma
+107;Ewing sarcoma: Children
+108;Eye cancer
+109;Febrile seizures
+110;Fever in children
+111;Fibroids
+112;Fibromyalgia
+113;Flatulence
+114;Flu
+115;Foetal alcohol syndrome
+116;Food poisoning
+117;Fungal nail infection
+118;Gallbladder cancer
+119;Gallstones
+120;Ganglion cyst
+121;Gastroenteritis
+122;Gastro-oesophageal reflux disease (GORD)
+123;Genital herpes
+124;Genital warts
+125;Germ cell tumours
+126;Glandular fever
+127;Gout
+128;Gum disease
+129;Haemorrhoids (piles)
+130;Hairy cell leukaemia
+131;Hand, foot and mouth disease
+132;Hay fever
+133;Head and neck cancer
+134;Head lice and nits
+135;Headaches
+136;Hearing loss
+137;Heart failure
+138;Hepatitis A
+139;Hepatitis B
+140;Hepatitis C
+141;Hiatus hernia
+142;High cholesterol
+143;HIV
+144;Hodgkin lymphoma
+145;Hodgkin lymphoma: Children
+146;Hodgkin lymphoma: Teenagers and young adults
+147;Huntington's disease
+148;Hyperglycaemia (high blood sugar)
+149;Hyperhidrosis
+150;Hypoglycaemia (low blood sugar)
+151;Idiopathic pulmonary fibrosis
+152;Impetigo
+153;Indigestion
+154;Ingrown toenail
+155;Inherited heart conditions
+156;Insomnia
+157;Iron deficiency anaemia
+158;Irritable bowel syndrome (IBS)
+159;Irritable hip
+160;Itching
+161;Itchy bottom
+162;Kaposi's sarcoma
+163;Kidney cancer
+164;Kidney infection
+165;Kidney stones
+166;Labyrinthitis
+167;Lactose intolerance
+168;Langerhans cell histiocytosis
+169;Laryngeal (larynx) cancer
+170;Laryngitis
+171;Leg cramps
+172;Lichen planus
+173;Liver cancer
+174;Liver disease
+175;Liver tumours
+176;Loss of libido
+177;Lung cancer
+178;Lupus
+179;Lyme disease
+180;Lymphoedema
+181;Malaria
+182;Malignant brain tumour (cancerous)
+183;Malnutrition
+184;Measles
+185;Meningitis
+186;Menopause
+187;Mesothelioma
+188;Middle ear infection (otitis media)
+189;Migraine
+190;Miscarriage
+191;Motor neurone disease (MND)
+192;Mouth cancer
+193;Mouth ulcer
+194;Multiple myeloma
+195;Multiple sclerosis (MS)
+196;Mumps
+197;Meniere's disease
+198;Nasal and sinus cancer
+199;Nasopharyngeal cancer
+200;Neuroblastoma
+201;Neuroblastoma: Children
+202;Neuroendocrine tumours
+203;Non-alcoholic fatty liver disease (NAFLD)
+204;Non-Hodgkin lymphoma
+205;Non-Hodgkin lymphoma: Children
+206;Norovirus
+207;Nosebleed
+208;Obesity
+209;Obsessive compulsive disorder (OCD)
+210;Obstructive sleep apnoea
+211;Oesophageal cancer
+212;Oral thrush in adults
+213;Osteoarthritis
+214;Osteoporosis
+215;Osteosarcoma
+216;Otitis externa
+217;Ovarian cancer
+218;Ovarian cancer: Teenagers and young adults
+219;Ovarian cyst
+220;Overactive thyroid
+221;Paget's disease of the nipple
+222;Pancreatic cancer
+223;Panic disorder
+224;Parkinson's disease
+225;Pelvic organ prolapse
+226;Penile cancer
+227;Peripheral neuropathy
+228;Personality disorder
+229;Pleurisy
+230;Pneumonia
+231;Polymyalgia rheumatica
+232;Post-traumatic stress disorder (PTSD)
+233;Postnatal depression
+234;Pregnancy and baby
+235;Pressure ulcers
+236;Prostate cancer
+237;Psoriasis
+238;Psoriatic arthritis
+239;Psychosis
+240;Rare tumours
+241;Raynaud's phenomenon
+242;Reactive arthritis
+243;Restless legs syndrome
+244;Retinoblastoma
+245;Retinoblastoma: Children
+246;Rhabdomyosarcoma
+247;Rheumatoid arthritis
+248;Ringworm and other fungal infections
+249;Rosacea
+250;Scabies
+251;Scarlet fever
+252;Schizophrenia
+253;Scoliosis
+254;Septic shock
+255;Sexually transmitted infections (STIs)
+256;Shingles
+257;Shortness of breath
+258;Sickle cell disease
+259;Sinusitis
+260;Sjogren's syndrome
+261;Skin cancer (melanoma)
+262;Skin cancer (non-melanoma)
+263;Slapped cheek syndrome
+264;Soft tissue sarcomas
+265;Soft tissue sarcomas: Teenagers and young adults
+266;Sore throat
+267;Spleen problems and spleen removal
+268;Stillbirth
+269;Stomach ache and abdominal pain
+270;Stomach cancer
+271;Stomach ulcer
+272;Stress, anxiety and low mood
+273;Stroke
+274;Sudden infant death syndrome (SIDS)
+275;Suicide
+276;Sunburn
+277;Swollen glands
+278;Testicular cancer
+279;Testicular cancer: Teenagers and young adults
+280;Testicular lumps and swellings
+281;Thirst
+282;Threadworms
+283;Thrush in men
+284;Thyroid cancer
+285;Thyroid cancer: Teenagers and young adults
+286;Tinnitus
+287;Tonsillitis
+288;Tooth decay
+289;Toothache
+290;Transient ischaemic attack (TIA)
+291;Trigeminal neuralgia
+292;Tuberculosis (TB)
+293;Type 1 diabetes
+294;Type 2 diabetes
+295;Ulcerative colitis
+296;Underactive thyroid
+297;Urinary incontinence
+298;Urinary tract infection (UTI)
+299;Urticaria (hives)
+300;Vaginal cancer
+301;Vaginal thrush
+302;Varicose eczema
+303;Varicose veins
+304;Venous leg ulcer
+305;Vertigo
+306;Vomiting in adults
+307;Vulval cancer
+308;Warts and verrucas
+309;Whooping cough
+310;Wilms’ tumour
+311;Womb (uterus) cancer
+312;Yellow fever

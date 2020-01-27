@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>{{ titre }}</title>
+    </head>
+
+    <body>
+        <h1>{{ titre }}</h1>
+        
+        <form method="POST" name="symptom_form", action='/find-diseases'>
+            {% for i in data_sympt %}
+                <input type="checkbox" id={{i.name}} name="symptoms" value={{i.id}}>
+                {{i.name}}
+                <p>
+            {% endfor %}
+            <p><input type=submit value=Submit>
+        </form>
+        
+                        
+                    
+
+
+    </body>
+</html>

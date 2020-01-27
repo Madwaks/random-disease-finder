@@ -1,0 +1,14 @@
+version: '3'
+services:
+  app:
+    build: ./front_dock
+    ports:
+    - "5000:5000"
+    environment:
+      - API_HOST=api
+    links:
+    - api
+  api:
+    build: ./api_dock
+    ports:
+    - 8887:8887

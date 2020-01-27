@@ -4,7 +4,7 @@ print(os.path)
 
 
 class FindDisease():
-    def __init__(self, list_symp=[]):
+    def __init__(self):
         self.dis_sympt = pd.read_csv("app/back/data/diseases_symptoms.csv", sep= ";")
 
         # transform data to set
@@ -20,10 +20,7 @@ class FindDisease():
 
         self.sympt_dict = self.sympt.to_dict(orient='records')
 
-        self.list_symp = list_symp
-
-    
-    def compute_jaccard(self):
+    def compute_jaccard(self, list_symp):
         d_s = self.dis_sympt.copy()
         set_symp = set(self.list_symp)
         # Compute jaccard index
@@ -32,8 +29,8 @@ class FindDisease():
         # Returns dataframe with jaccard index for every observation
         return d_s
     
-    def get_ids_names(self):
-        ids_df = self.compute_jaccard()
+    def get_ids_names(self, list_symp=[]):
+        ids_df = self.compute_jaccard(list_symp)
         dis_df = self.dis.copy()
         symp_df = self.sympt.copy()
 
